@@ -22,4 +22,4 @@ https://ceciliadiazd.github.io/01-Challenge/
 
 ## Screenshots of Application 
 
-/Users/ceciliadiaz/01-Challenge/Challenge -01-screenshot1.png
+(./Challenge-01-screenshot1.png)
