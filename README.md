@@ -22,4 +22,8 @@ https://ceciliadiazd.github.io/01-Challenge/
 
 ## Screenshots of Application 
 
-(./Challenge-01-screenshot1.png)
+![Screenshot 1](./Challenge-01-screenshot1.png)
+
+![Screenshot 2](./Challenge-01-screenshot2.png)
+
+![Screenshot 3](./Challenge-01-screenshot3.png)
